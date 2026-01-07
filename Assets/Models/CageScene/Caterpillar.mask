@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Caterpillar
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Root
+    m_Weight: 0
+  - m_Path: Armature/Root/Abdomen1
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen2
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen3
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen3/Proleg1.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen3/Proleg1.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen4
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen4/Proleg2.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen4/Proleg2.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen5
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen5/Proleg3.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen5/Proleg3.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen6
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen6/Proleg4.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen6/Proleg4.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen7
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen8
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen8/Hip
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen8/Hip/Proleg5.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Abdomen8/Hip/Proleg5.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/Head
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/Head/Antenna.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/Head/Antenna.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/Head/Mandible.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/Head/Mandible.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/Head/MaxillaryPalp1.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/Head/MaxillaryPalp1.L/MaxillaryPalp2.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/Head/MaxillaryPalp1.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/Head/MaxillaryPalp1.R/MaxillaryPalp2.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/ThoracicLeg1.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/ThoracicLeg1.L/ThoracicLeg1-2.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/ThoracicLeg1.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax1/ThoracicLeg1.R/ThoracicLeg1-2.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax2
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax2/ThoracicLeg2.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax2/ThoracicLeg2.L/ThoracicLeg2-2.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax2/ThoracicLeg2.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax2/ThoracicLeg2.R/ThoracicLeg2-2.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax3
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax3/ThoracicLeg3.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax3/ThoracicLeg3.L/ThoracicLeg3-2.L
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax3/ThoracicLeg3.R
+    m_Weight: 1
+  - m_Path: Armature/Root/Thorax3/ThoracicLeg3.R/ThoracicLeg3-2.R
+    m_Weight: 1
+  - m_Path: PapilioXuthus5_L
+    m_Weight: 1

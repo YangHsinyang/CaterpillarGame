@@ -74,4 +74,13 @@ public class BranchStatus : MonoBehaviour
         }
         return null;
     }
+
+    [ContextMenu("DEBUG/SetAllFresh")]
+    void DBG_SetAllFresh() => SetAllFresh();
+
+    [ContextMenu("DEBUG/SetEaten_A")]
+    void DBG_SetEatenA() => SetEaten("A");
+
+    [ContextMenu("DEBUG/SetRemainingWilted")]
+    void DBG_SetRemainingWilted() => SetRemainingWilted();
 }
