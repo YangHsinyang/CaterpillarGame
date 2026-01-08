@@ -11,3 +11,5 @@ This game is being developed as a personal portfolio project.
 
 ## Current Progress
 - [CageScene] Logic 80% complete
+
+For detailed development progress and learning journey, please visit my [LinkedIn](https://www.linkedin.com/in/hsinyang8y).
